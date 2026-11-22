@@ -1,0 +1,30 @@
+{
+  "offline": [
+    { "name": "眼皮微垂", "eyes": "lid", "brows": "tired", "mouth": "wry", "gaze": "down" },
+    { "name": "电量见底", "eyes": "droop", "brows": "flat", "mouth": "frown" },
+    { "name": "半开半关", "eyes": "uneven", "brows": "tired", "mouth": "o" },
+    { "name": "打了个哈欠", "eyes": "closed", "brows": "worried", "mouth": "yawn" },
+    { "name": "直接睡着", "eyes": "closed", "brows": "none", "mouth": "purse" }
+  ],
+  "overheat": [
+    { "name": "眉头微皱", "eyes": "button", "brows": "tense", "mouth": "flat" },
+    { "name": "越想越急", "eyes": "alert", "brows": "tense", "mouth": "frown", "gaze": "side" },
+    { "name": "咬牙顶住", "eyes": "lid", "brows": "pinched", "mouth": "grit" },
+    { "name": "快冒汗了", "eyes": "wide", "brows": "worried", "mouth": "gasp", "accent": "sweat" },
+    { "name": "过载大喊", "eyes": "squeeze", "brows": "pinched", "mouth": "shout", "accent": "sweat" }
+  ],
+  "blank": [
+    { "name": "放空一会", "eyes": "dot", "brows": "none", "mouth": "purse" },
+    { "name": "眼神飘远", "eyes": "alert", "brows": "soft", "mouth": "flat", "gaze": "side" },
+    { "name": "慢了半拍", "eyes": "lid", "brows": "flat", "mouth": "o", "gaze": "down" },
+    { "name": "眯眼歇会", "eyes": "closed", "brows": "soft", "mouth": "wry" },
+    { "name": "完全静音", "eyes": "line", "brows": "none", "mouth": "flat" }
+  ],
+  "giddy": [
+    { "name": "嘴角上扬", "eyes": "button", "brows": "soft", "mouth": "smile" },
+    { "name": "眼睛发亮", "eyes": "alert", "brows": "raised", "mouth": "smile" },
+    { "name": "笑出声了", "eyes": "wide", "brows": "raised", "mouth": "grin", "gaze": "up" },
+    { "name": "笑弯了眼", "eyes": "happy", "brows": "soft", "mouth": "laugh" },
+    { "name": "满眼星星", "eyes": "star", "brows": "raised", "mouth": "beam" }
+  ]
+}

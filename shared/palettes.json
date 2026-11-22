@@ -1,0 +1,8 @@
+{
+  "lemon": { "label": "柠檬黄", "stage": "lilac", "skin": "#ffbe39", "belly": "#ffe381", "cheek": "#f9907f", "rim": "#ffc95a" },
+  "grape": { "label": "葡萄紫", "stage": "peach", "skin": "#ae91f4", "belly": "#d9c6ff", "cheek": "#ffb3cf", "rim": "#987ae2" },
+  "mint": { "label": "薄荷绿", "stage": "mint", "skin": "#40ceac", "belly": "#9aefd0", "cheek": "#ffd07d", "rim": "#28ae92" },
+  "peach": { "label": "蜜桃粉", "stage": "lilac", "skin": "#ff91a9", "belly": "#ffd1d2", "cheek": "#ff6879", "rim": "#ed7b98" },
+  "blue": { "label": "汽水蓝", "stage": "mint", "skin": "#72baf6", "belly": "#c0e1ff", "cheek": "#ffb2a1", "rim": "#5ea1ee" },
+  "biscuit": { "label": "饼干棕", "stage": "peach", "skin": "#d99052", "belly": "#fac48e", "cheek": "#ff9896", "rim": "#bd7346" }
+}
